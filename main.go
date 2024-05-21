@@ -13,4 +13,5 @@ func main() {
 		return
 	}
 	defer girdi.Close()
+	/*aaa*/
 }
